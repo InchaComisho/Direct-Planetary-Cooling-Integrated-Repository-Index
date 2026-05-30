@@ -2,7 +2,7 @@
 This page provides an integrated overview of the **Direct Planetary Cooling (DPC)** architecture: a safe, reversible, and immediately deployable framework for physically reducing planetary heat without relying solely on CO₂ emission reduction.
 
 Author: Master (inchacomisho / inchacomusho)  
-AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI)  
+AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI)  
 Published: May 2026  
 License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
 
