@@ -141,6 +141,19 @@ You can reuse or adapt these tags for GitHub topics, SEO, or cross-platform post
 `#ClimateStabilization` `#GlobalWarming` `#CarbonFixation`  
 `#Microbiome` `#SustainableCivilization` `#OpenSourceClimate`
 
+---
+
+## Narrative Companion
+
+> *Speculative science fiction — not a technical specification, scientific paper, or policy recommendation. CO₂ reduction remains necessary and is not contradicted by this work.*
+
+The Direct Planetary Cooling concept and its component technologies (OBS, OTU, UMC) are explored as dramatic fiction in:
+
+**[CO₂ Is Not the Only Villain — A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)**
+
+This 10-episode narrative traces a near-future world in which ocean heat accumulation and biological system collapse make Direct Planetary Cooling a speculative response under consideration — and dramatises the human decisions surrounding its deployment.
+
+---
 
 ■関連リンク
 
