@@ -43,6 +43,10 @@ These repositories define the conceptual and architectural foundation of Direct 
   Deployment-oriented architecture for scaling DPC from pilot projects to regional and global implementation.  
   https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-Architecture
 
+- **Direct Planetary Cooling – Artificial Wisdom and the New Civilizational Genesis Plan**  
+  Integrates DPC with Artificial Wisdom and civilizational redesign.  
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan
+
 ---
 
 ## 2. Ocean Breathing and OTU (Ocean Tuning Unit)
@@ -69,6 +73,14 @@ These repositories focus on **deep-ocean aeration, vertical circulation, and the
   Risk clarification and safety analysis explaining why deep-sea aeration, as designed here, does not qualify as hazardous geoengineering.  
   https://github.com/InchaComisho/Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation
 
+- **Deep-Sea Aeration**  
+  Defines deep-sea aeration as an ocean metabolism restart technology using OBS and OTU.  
+  https://github.com/InchaComisho/Deep-Sea-Aeration
+
+- **Direct Planetary Cooling via Ocean Tuning Units (OTU)**  
+  DPC framework based on Ocean Tuning Units.  
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-
+
 ---
 
 ## 3. Urban Mist Cooling and Disaster Mitigation
@@ -82,6 +94,14 @@ These components apply DPC principles to **cities, heatwaves, and disaster-resil
 - **Global Direct Planetary Cooling Architecture**  
   (See above) Includes the integration strategy for deploying urban mist cooling alongside ocean and desert modules.  
   https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-Architecture
+
+- **Center-Mist Ultrasonic Cooling Fan Concept**  
+  Device-level UMC concept using center mist injection and spiral return structure.  
+  https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
+
+- **Urban Water Circulation System (UEPWI)**  
+  Urban water circulation framework for heat, dust, pollen, and stormwater adaptation.  
+  https://github.com/InchaComisho/Urban-Water-Circulation-System-UEPWI
 
 ---
 
