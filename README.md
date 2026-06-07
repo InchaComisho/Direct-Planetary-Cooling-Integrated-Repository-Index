@@ -173,6 +173,15 @@ The Direct Planetary Cooling concept and its component technologies (OBS, OTU, U
 
 This 10-episode narrative traces a near-future world in which ocean heat accumulation and biological system collapse make Direct Planetary Cooling a speculative response under consideration — and dramatises the human decisions surrounding its deployment.
 
+
+---
+
+## Master Knowledge Portal
+
+For the full repository map and knowledge-system navigation, see:
+
+- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+
 ---
 
 ## Related Repositories
