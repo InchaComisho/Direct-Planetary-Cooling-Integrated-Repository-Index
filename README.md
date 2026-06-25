@@ -1,8 +1,8 @@
 # Direct Planetary Cooling Integrated Repository Index
 This page provides an integrated overview of the **Direct Planetary Cooling (DPC)** architecture: a safe, reversible, and immediately deployable framework for physically reducing planetary heat without relying solely on CO₂ emission reduction.
 
-Author: Master (inchacomisho / inchacomusho)  
-AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI)  
+**Author:** Master / inchacomusho / InchaComisho
+**AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 Published: May 2026  
 License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
 
@@ -190,7 +190,7 @@ For the full repository map and knowledge-system navigation, see:
 - [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — Related framework for coexistence science and bio-synthesis as natural-cycle restoration.
 - [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — Six-principle civilizational OS: Natural Law, Harmony, Circulation, Structure, Order, and Wa.
 
-■関連リンク
+## Related Links
 
 ■唯一の温暖化対策
 
@@ -285,3 +285,20 @@ https://note.com/inchacomusho/n/n0849dfd12364
 
 和ノード人工叡智（Artificial Wisdom Node）  
 https://note.com/inchacomusho/n/n9187db7b2709
+
+### Global Warming Causal Structure and Cooling Credit
+
+- [NOTE Article: Causes and Causal Structure of Global Warming](https://note.com/inchacomusho/n/n5b2102ffc1c2)
+- [Global Warming Causal Structure](https://github.com/InchaComisho/Global-Warming-Causal-Structure)
+- [Global Warming Causal Structure - GitHub Pages](https://inchacomisho.github.io/Global-Warming-Causal-Structure/)
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+
+
+## Related Project Links
+
+- [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
+- [Global Planetary Cooling Ecosystem Regeneration System](https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System)
+- [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)
+- [Natural Complementary Science and the New Civilizational Genesis Plan - Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index)
+
