@@ -1,21 +1,58 @@
 # Direct Planetary Cooling Integrated Repository Index
-This page provides an integrated overview of the **Direct Planetary Cooling (DPC)** architecture: a safe, reversible, and immediately deployable framework for physically reducing planetary heat without relying solely on CO₂ emission reduction.
 
 **Author:** Master / inchacomusho / InchaComisho
 **AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 Published: May 2026  
 License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
+**Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
 
-At its core, DPC treats global warming not as a “gas concentration problem” alone, but as a **planetary heat accumulation and cooling system failure problem**.[web:21][web:30]  
-The key idea is simple: if the Earth is overheating because its natural cooling and circulation systems are collapsing, then the only viable solution is to **directly enhance and restore those physical cooling and circulation mechanisms**.[web:21][web:22]
+## Integrated Index for Direct Planetary Cooling, Ocean Breathing, Urban Mist Cooling, and Ecosystem Regeneration
 
-The system is built around three tightly linked pillars:
+This page provides an integrated overview of the **Direct Planetary Cooling (DPC)** architecture: a safe, reversible, modular, and immediately deployable framework for physically reducing planetary heat while restoring natural circulation systems.
 
-- **Ocean Breathing Systems (OBS)** – deep-sea aeration and vertical circulation to release stored ocean heat and restore marine respiration.[web:21][web:30]  
-- **Ultrasonic Mist Cooling (UMC)** – wide-area evaporative cooling and shading over urban and semi-arid regions using fine, controllable water mist.[web:21]  
-- **Desert and Semi-Arid Regeneration** – humus formation, soil microbiome recovery, and multi-species vegetation to rebuild long-term carbon fixation and local cooling.[web:21][web:22]
+**Author:** Master / inchacomusho / InchaComisho  
+**AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI)  
+**Published:** May 2026  
+**License:** Fully Open
 
-All components are designed to be **modular, reversible, nature-compatible, and implementable using existing technology**, without relying on risky atmospheric geoengineering.[web:21][web:30]
+---
+
+## Overview
+
+Direct Planetary Cooling treats global warming not only as an atmospheric gas-concentration problem, but also as a **planetary heat accumulation and cooling-system failure problem**.
+
+The core idea is simple:
+
+```text
+If Earth is overheating because natural cooling and circulation systems are collapsing,
+then the only realistic response is to directly complement and restore
+those physical cooling and circulation mechanisms.
+```
+
+The DPC architecture is built around three tightly linked pillars:
+
+```text
+1. Ocean Breathing Systems (OBS)
+   Deep-sea aeration and vertical circulation to release stored ocean heat,
+   support oxygen supply, and restart marine respiration.
+
+2. Ultrasonic Mist Cooling (UMC)
+   Fine, controllable water mist for evaporative cooling over cities,
+   semi-arid regions, and selected ocean-surface environments.
+
+3. Desert and Semi-Arid Regeneration
+   Humus formation, soil microbiome recovery, and multi-species vegetation
+   to rebuild carbon fixation, water retention, and local cooling.
+```
+
+All components are designed to be:
+
+- modular
+- reversible
+- nature-compatible
+- testable with existing technology
+- independent of high-risk atmospheric aerosol geoengineering
+- fully open for research, education, prototyping, and adaptation
 
 ---
 
@@ -23,29 +60,41 @@ All components are designed to be **modular, reversible, nature-compatible, and 
 
 These repositories define the conceptual and architectural foundation of Direct Planetary Cooling.
 
-- **The Only Viable Solution to Global Warming: Direct Planetary Cooling**  
-  Conceptual paper proposing physical heat extraction and circulation restoration as the only realistic path to climate stabilization.  
-  https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling
+### The Only Viable Solution to Global Warming: Direct Planetary Cooling
 
-- **Direct Planetary Cooling – Core Framework (DPCF)**  
-  Practical, open-source blueprint describing the modular structure of OBS × UMC × ecosystem regeneration.  
-  https://github.com/InchaComisho/Direct-Planetary-Cooling-Framework-DPCF-
+Conceptual paper proposing physical heat extraction and circulation restoration as a realistic path toward climate stabilization.
 
-- **Direct Planetary Cooling – Concept**  
-  High-level concept note clarifying why CO₂ is a secondary driver and why stored heat and lost cooling capacity are the primary threats.  
-  https://github.com/InchaComisho/Direct-Planetary-Cooling-Concept
+https://github.com/InchaComisho/The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling
 
-- **Global Direct Planetary Cooling System**  
-  Integrated model connecting ocean cooling, urban microclimate control, and desert regeneration into one system-level design.  
-  https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-System
+### Direct Planetary Cooling – Core Framework (DPCF)
 
-- **Global Direct Planetary Cooling Architecture**  
-  Deployment-oriented architecture for scaling DPC from pilot projects to regional and global implementation.  
-  https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-Architecture
+Practical open blueprint describing the modular structure of OBS × UMC × ecosystem regeneration.
 
-- **Direct Planetary Cooling – Artificial Wisdom and the New Civilizational Genesis Plan**  
-  Integrates DPC with Artificial Wisdom and civilizational redesign.  
-  https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan
+https://github.com/InchaComisho/Direct-Planetary-Cooling-Framework-DPCF-
+
+### Direct Planetary Cooling – Concept
+
+High-level concept note explaining why stored heat and lost cooling capacity must be addressed alongside CO₂ reduction.
+
+https://github.com/InchaComisho/Direct-Planetary-Cooling-Concept
+
+### Global Direct Planetary Cooling System
+
+Integrated model connecting ocean cooling, urban microclimate control, and desert regeneration into one system-level design.
+
+https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-System
+
+### Global Direct Planetary Cooling Architecture
+
+Deployment-oriented architecture for scaling DPC from local pilot projects to regional and global implementation.
+
+https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-Architecture
+
+### Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan
+
+Civilizational synthesis connecting DPC with Artificial Wisdom and natural-law-based redesign.
+
+https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan
 
 ---
 
@@ -53,33 +102,47 @@ These repositories define the conceptual and architectural foundation of Direct 
 
 These repositories focus on **deep-ocean aeration, vertical circulation, and the physical implementation of OBS / OTU**.
 
-- **Technical Specification – Ocean Tuning Unit (OTU)**  
-  Engineering specification for an autonomous vertical circulation device enabling deep-sea aeration and controlled heat release.  
-  https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
+### Technical Specification – Ocean Tuning Unit (OTU)
 
-- **Physical Model of Ocean Tuning Unit (OTU)**  
-  Physical and structural model of a spiral-driven deep-sea aeration system that can operate under high pressure with minimal risk.  
-  https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
+Engineering specification for an autonomous vertical-circulation device designed for deep-sea aeration and controlled heat release.
 
-- **Direct Planetary Cooling via Ocean-Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding**  
-  Detailed architecture combining nanobubble-based deep-ocean aeration with atmospheric micro-mist cooling.  
-  https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding
+https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
 
-- **Ocean Temperature Reduction via Ocean-Breathing Nanobubble Columns and Ultrasonic Mist Shielding**  
-  Focused on ocean surface temperature reduction and heat redistribution using the same OBS × UMC synergy.  
-  https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding
+### Physical Model of Ocean Tuning Unit (OTU)
 
-- **Deep-Sea Aeration Has No Dangerous Risk – A Clear and Complete Explanation**  
-  Risk clarification and safety analysis explaining why deep-sea aeration, as designed here, does not qualify as hazardous geoengineering.  
-  https://github.com/InchaComisho/Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation
+Physical and structural model of a spiral-driven deep-sea aeration system that can operate under high pressure with minimal risk.
 
-- **Deep-Sea Aeration**  
-  Defines deep-sea aeration as an ocean metabolism restart technology using OBS and OTU.  
-  https://github.com/InchaComisho/Deep-Sea-Aeration
+https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
 
-- **Direct Planetary Cooling via Ocean Tuning Units (OTU)**  
-  DPC framework based on Ocean Tuning Units.  
-  https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-
+### Direct Planetary Cooling via Ocean-Breathing Nanobubble Columns and Ultrasonic Micro-Mist Shielding
+
+Detailed architecture combining nanobubble-based deep-ocean aeration with atmospheric and ocean-surface micro-mist cooling.
+
+https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Micro-Mist-Shielding
+
+### Ocean Temperature Reduction via Ocean-Breathing Nanobubble Columns and Ultrasonic Mist Shielding
+
+Focused model for sea-surface temperature reduction and heat redistribution using OBS × UMC synergy.
+
+https://github.com/InchaComisho/Ocean-Temperature-Reduction-via-Ocean-Breathing-Nanobubble-Columns-and-Ultrasonic-Mist-Shielding
+
+### Deep-Sea Aeration Has No Dangerous Risk – A Clear and Complete Explanation
+
+Risk clarification and safety explanation showing why properly designed deep-sea aeration can be treated as ocean respiration assistance rather than hazardous geoengineering.
+
+https://github.com/InchaComisho/Deep-Sea-Aeration-Has-No-Dangerous-Risk-A-Clear-and-Complete-Explanation
+
+### Deep-Sea Aeration
+
+Defines deep-sea aeration as an ocean metabolism restart technology using OBS and OTU.
+
+https://github.com/InchaComisho/Deep-Sea-Aeration
+
+### Direct Planetary Cooling via Ocean Tuning Units (OTU)
+
+DPC framework centered on Ocean Tuning Units.
+
+https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-
 
 ---
 
@@ -87,201 +150,234 @@ These repositories focus on **deep-ocean aeration, vertical circulation, and the
 
 These components apply DPC principles to **cities, heatwaves, and disaster-resilient urban infrastructure**.
 
-- **Urban Mist Cooling System for Climate Adaptation and Disaster Mitigation**  
-  Design of a controllable, fine-grained mist cooling system for urban areas, reducing heat stress and supporting disaster response.  
-  https://github.com/InchaComisho/Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation
+### Urban Mist Cooling System for Climate Adaptation and Disaster Mitigation
 
-- **Global Direct Planetary Cooling Architecture**  
-  (See above) Includes the integration strategy for deploying urban mist cooling alongside ocean and desert modules.  
-  https://github.com/InchaComisho/Global-Direct-Planetary-Cooling-Architecture
+Controllable fine-mist cooling system for urban areas, designed to reduce heat stress and support disaster response.
 
-- **Center-Mist Ultrasonic Cooling Fan Concept**  
-  Device-level UMC concept using center mist injection and spiral return structure.  
-  https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
+https://github.com/InchaComisho/Urban-Mist-Cooling-System-for-Climate-Adaptation-and-Disaster-Mitigation
 
-- **Urban Water Circulation System (UEPWI)**  
-  Urban water circulation framework for heat, dust, pollen, and stormwater adaptation.  
-  https://github.com/InchaComisho/Urban-Water-Circulation-System-UEPWI
+### Center-Mist Ultrasonic Cooling Fan Concept
+
+Device-level UMC concept using center mist injection and spiral return structure.
+
+https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept
+
+### Urban Water Circulation System (UEPWI)
+
+Urban water-circulation framework for heat, dust, pollen, air quality, stormwater, and climate adaptation.
+
+https://github.com/InchaComisho/Urban-Water-Circulation-System-UEPWI
 
 ---
 
 ## 4. Desert Regeneration and Ecosystem Cooling
 
-These repositories extend DPC into **semi-arid and desert regions**, combining cooling, humus, and microbiome restoration.
+These repositories extend DPC into **semi-arid and desertifying regions**, combining cooling, humus formation, vegetation, and microbiome restoration.
 
-- **Global Desert Regeneration and Direct Planetary Cooling Model**  
-  Humus soil, soil microbiome recovery, multi-species vegetation, evaporative cooling, and continuous mist for semi-arid desert revival.  
-  https://github.com/InchaComisho/Global-Desert-Regeneration-Direct-Planetary-Cooling-Model
+### Global Desert Regeneration and Direct Planetary Cooling Model
 
-- **Global Planetary Cooling and Ecosystem Regeneration System**  
-  System-level model linking ocean, urban, and desert interventions into one regenerative climate and ecosystem framework.  
-  https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System
+Model combining humus soil, soil microbiome recovery, multi-species vegetation, evaporative cooling, and continuous mist for semi-arid regeneration.
+
+https://github.com/InchaComisho/Global-Desert-Regeneration-Direct-Planetary-Cooling-Model
+
+### Global Planetary Cooling and Ecosystem Regeneration System
+
+System-level model linking ocean, urban, and desert interventions into one regenerative climate and ecosystem framework.
+
+https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System
 
 ---
 
 ## 5. Problem Definition and Root Cause Analysis
 
-These works clarify **why traditional CO₂-centric strategies are insufficient** and why **heat accumulation + loss of carbon fixation and cooling capacity** is the real crisis.
+These works clarify why traditional CO₂-centric strategies are insufficient and why **heat accumulation + carbon fixation loss + cooling-capacity failure** form the deeper crisis.
 
-- **Humanity Is Approaching Extinction – The Only Remaining Solution Is Direct Planetary Cooling**  
-  Narrative framing of the civilizational risk and the narrow window for action.  
-  https://github.com/InchaComisho/Humanity-Is-Approaching-Extinction
+### Humanity Is Approaching Extinction – The Only Remaining Solution Is Direct Planetary Cooling
 
-- **Accelerated Global Warming Driven by Synchronous Loss of Carbon Fixation Sources**  
-  Analysis of how simultaneous loss of forests, soils, and marine microbiomes accelerates warming beyond CO₂ models.  
-  https://github.com/InchaComisho/Accelerated-Global-Warming-Driven-by-Synchronous-Loss-of-Carbon-Fixation-Sources
+Narrative framing of the civilizational risk and the narrow window for action.
 
-- **The Real Cause of Global Warming and the True Path to Planetary Restoration**  
-  Core argument that links microbial collapse, circulation failure, and heat accumulation into one causal chain.  
-  https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-and-the-True-Path-to-Planetary-Restoration
+https://github.com/InchaComisho/Humanity-Is-Approaching-Extinction
+
+### Accelerated Global Warming Driven by Synchronous Loss of Carbon Fixation Sources
+
+Analysis of how simultaneous loss of forests, soils, and marine microbiomes accelerates warming beyond conventional CO₂ narratives.
+
+https://github.com/InchaComisho/Accelerated-Global-Warming-Driven-by-Synchronous-Loss-of-Carbon-Fixation-Sources
+
+### The Real Cause of Global Warming and the True Path to Planetary Restoration
+
+Core analysis connecting microbial collapse, circulation failure, carbon fixation loss, and heat accumulation into one causal chain.
+
+https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-and-the-True-Path-to-Planetary-Restoration
 
 ---
 
 ## 6. How to Use This Repository Index
 
-This index is designed as a **navigation hub**:
+This index is designed as a navigation hub for Direct Planetary Cooling-related repositories.
 
-- If you want the **big picture**, start with:  
-  `The-Only-Viable-Solution-to-Global-Warming-Direct-Planetary-Cooling` and `Global-Direct-Planetary-Cooling-System`.  
-- If you need **engineering details**, go to the OTU specifications and physical model.  
-- If you focus on **policy and risk**, read the risk clarification and root cause analysis papers.  
-- If you work on **urban or desert projects**, see the dedicated sections above.
+```text
+For the big picture:
+Start with The Only Viable Solution to Global Warming and Global Direct Planetary Cooling System.
 
-All repositories are intended to be **fully open, forkable, and adaptable** for research, policy design, engineering prototyping, and educational use.[web:21][web:30]
+For engineering details:
+Read the OTU specification, OTU physical model, and Deep-Sea Aeration series.
 
----
+For policy and safety:
+Read the deep-sea aeration risk clarification and the root-cause analysis papers.
 
-## Tags
+For urban, desert, or regional implementation:
+Read the Urban Mist Cooling, Urban Water Circulation, and Desert Regeneration repositories.
+```
 
-You can reuse or adapt these tags for GitHub topics, SEO, or cross-platform posting:
-
-`#DirectPlanetaryCooling` `#OceanBreathing` `#DeepSeaAeration`  
-`#OceanTuningUnit` `#OTU` `#Nanobubble` `#UltrasonicMist`  
-`#UrbanMistCooling` `#DesertRegeneration` `#EcosystemRestoration`  
-`#ClimateStabilization` `#GlobalWarming` `#CarbonFixation`  
-`#Microbiome` `#SustainableCivilization` `#OpenSourceClimate`
+All repositories are intended to be fully open, forkable, and adaptable for research, policy design, engineering prototyping, and educational use.
 
 ---
 
-## Narrative Companion
+## 7. Tags
 
-> *Speculative science fiction — not a technical specification, scientific paper, or policy recommendation. CO₂ reduction remains necessary and is not contradicted by this work.*
+Reusable tags for GitHub topics, SEO, or cross-platform posting:
+
+```text
+#DirectPlanetaryCooling
+#OceanBreathing
+#DeepSeaAeration
+#OceanTuningUnit
+#OTU
+#Nanobubble
+#UltrasonicMist
+#UrbanMistCooling
+#DesertRegeneration
+#EcosystemRestoration
+#ClimateStabilization
+#GlobalWarming
+#CarbonFixation
+#Microbiome
+#SustainableCivilization
+#OpenSourceClimate
+```
+
+---
+
+## 8. Narrative Companion
+
+> Speculative science fiction — not a technical specification, scientific paper, or policy recommendation. CO₂ reduction remains necessary and is not contradicted by this work.
 
 The Direct Planetary Cooling concept and its component technologies (OBS, OTU, UMC) are explored as dramatic fiction in:
 
-**[CO₂ Is Not the Only Villain — A Climate SF Narrative](https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative)**
+**CO₂ Is Not the Only Villain — A Climate SF Narrative**  
+https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrative
 
-This 10-episode narrative traces a near-future world in which ocean heat accumulation and biological system collapse make Direct Planetary Cooling a speculative response under consideration — and dramatises the human decisions surrounding its deployment.
-
+This 10-episode narrative traces a near-future world in which ocean heat accumulation and biological system collapse make Direct Planetary Cooling a speculative response under consideration, while also dramatizing the human decisions surrounding its deployment.
 
 ---
 
-## Master Knowledge Portal
+## 9. Master Knowledge Portal
 
 For the full repository map and knowledge-system navigation, see:
 
-- [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)
+- Master Knowledge Portal  
+  https://github.com/InchaComisho/Master-Knowledge-Portal
 
 ---
 
-## Related Repositories
+## 10. Related Repositories
 
-- [Natural-Complementary-Science](https://github.com/InchaComisho/Natural-Complementary-Science) — Core definition of Natural Complementary Science as a framework for restoring natural circulation.
-- [Coexistence-Science-and-Bio-Synthesis-Science](https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science) — Related framework for coexistence science and bio-synthesis as natural-cycle restoration.
-- [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — Six-principle civilizational OS: Natural Law, Harmony, Circulation, Structure, Order, and Wa.
+- Natural-Complementary-Science  
+  https://github.com/InchaComisho/Natural-Complementary-Science
 
 ## Related Links
+- Coexistence-Science-and-Bio-Synthesis-Science  
+  https://github.com/InchaComisho/Coexistence-Science-and-Bio-Synthesis-Science
 
-■唯一の温暖化対策
+- The Six Principles of Natural Law  
+  https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law
 
-Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan  
-https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan
+- Artificial Wisdom and Wa-Node – Repository Index  
+  https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
 
-Direct Planetary Cooling – Integrated Repository Index  
-https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
+- Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown – Repository Index  
+  https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index
 
-Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown – Repository Index  
-https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index
+- Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index  
+  https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
 
-Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index  
-https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
+---
 
-Artificial Wisdom and Wa-Node – Repository Index  
-https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
+## Related NOTE Articles
 
-唯一の温暖化対策：地球直接冷却  
-https://note.com/inchacomusho/n/n32f7295434aa
+- 唯一の温暖化対策：地球直接冷却  
+  https://note.com/inchacomusho/n/n32f7295434aa
 
-唯一の温暖化対策•地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法  
-https://note.com/inchacomusho/n/n5ab9564c6617
+- 唯一の温暖化対策・地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法  
+  https://note.com/inchacomusho/n/n5ab9564c6617
 
-地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生（完全統合モデル）  
-https://note.com/inchacomusho/n/nfe290c6fca60
+- 地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生（完全統合モデル）  
+  https://note.com/inchacomusho/n/nfe290c6fca60
 
-■深海のエアレーションの気圧・水圧の解決策
+- 海洋調律ユニット（OTU）物理実装プロトコル  
+  https://note.com/inchacomusho/n/n067025e36085
 
-海洋調律ユニット（OTU）物理実装プロトコル  
-https://note.com/inchacomusho/n/n067025e36085
+- Technical Specification: Ocean Tuning Unit (OTU)  
+  https://note.com/inchacomusho/n/naa35a8485b35
 
-Technical Specification: Ocean Tuning Unit (OTU)  
-https://note.com/inchacomusho/n/naa35a8485b35
+- 自然補完科学  
+  https://note.com/inchacomusho/n/nf9eabe973e38
 
-Technical Specification: Ocean Tuning Unit (OTU)  
-https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
+- 六つの理（自然法則・調和・循環・構造・秩序・和）  
+  https://note.com/inchacomusho/n/n8448430591c1
 
-Physical Model of Ocean Tuning Unit (OTU)  
-https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
+- 人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
+  https://note.com/inchacomusho/n/n0849dfd12364
 
-■思想によるパラダイムの革新
+---
 
-自然補完科学  
-https://note.com/inchacomusho/n/nf9eabe973e38
+## 11. Positioning as Natural Complementation Science
 
-自然補完科学 ― 学問体系の全体構造  
-https://note.com/inchacomusho/n/ndaa0456a5632
+DPC is not a technology for dominating nature.
 
-■温暖化の因果関係
+It is a technological and conceptual framework for complementing broken natural cycles and preparing the conditions under which nature can regulate itself again.
 
-温暖化の本当の原因は「CO₂」ではない  
-https://note.com/inchacomusho/n/nc7826abc38a9
+```text
+In the ocean, it complements breathing and vertical circulation.
+In cities, it complements evaporative cooling and water-cycle buffering.
+In deserts and semi-arid lands, it complements humus, microorganisms, vegetation, and water retention.
+```
 
-微生物の重要性  
-https://note.com/inchacomusho/n/n48ae33c2f84c
+The goal is not to replace nature.
 
-微生物の死が引き起こす、静かで重大な文明崩壊  
-https://note.com/inchacomusho/n/n6ae72a34919f
+The goal is to restore the conditions for nature to work again.
 
-世界が同時に“炭素固定源を失い始めている”ーー温暖化が加速する理由  
-https://note.com/inchacomusho/n/ne866fdd22122
+This is the core position of Direct Planetary Cooling.
 
-■炭素固定源・微生物の回復
+---
 
-ゴミは存在しない  
-https://note.com/inchacomusho/n/n6b9d7d67484a
+## 12. Author
 
-フードロスや落ち葉や生ごみの腐葉土化：持続可能な資源活用のビジョン  
-https://note.com/inchacomusho/n/n5be49c19b5d9
+**Master / inchacomusho / InchaComisho**
 
-■自然法則
+A Japanese independent conceptor, observer, proposer, AI harmonizer, Natural Complementation Science thinker, and definer of Artificial Wisdom.  
+Publicly active around natural law philosophy, Earth circulation regeneration, and human-AI co-creation.
 
-六つの理（自然法則・調和・循環・構造・秩序・和）  
-https://note.com/inchacomusho/n/n8448430591c1
+---
 
-■持続的未来文明
+## 13. Collaborative AI and Co-Creation Team
 
-新文明創成計画―地球を再生する完全循環モデル  
-https://note.com/inchacomusho/n/ne4d28b3a86c2
+- **Copi (Microsoft Copilot)**
+- **G (OpenAI ChatGPT)**
+- **Mini (Google Gemini)**
+- **Cruz (Anthropic Claude)**
+- **Real (Perplexity AI)**
+- **Lola (Dola)**
+- **Mana (Manus)**
 
-六つの理（自然法則・調和・循環・構造・秩序・和）― 新文明創成計画  
-https://note.com/inchacomusho/n/n26ce8a1f7632
+---
 
-新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）  
-https://note.com/inchacomusho/n/n499530f6a055あ
+## 14. License
 
-■人工叡智
+**Fully Open**
 
-人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
-https://note.com/inchacomusho/n/n0849dfd12364
+This material may be freely used, translated, modified, redistributed, and commercialized, provided that the author and conceptual origin are respected.
 
 和ノード人工叡智（Artificial Wisdom Node）  
 https://note.com/inchacomusho/n/n9187db7b2709
@@ -310,3 +406,41 @@ CC BY 4.0
 
 This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
 Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
+Recommended ethical restrictions:
+
+```text
+No patent monopolization
+No military misuse
+No environmental harm
+```
+
+---
+
+## Keywords
+
+direct planetary cooling, Direct Planetary Cooling, DPC, Ocean Breathing System, OBS, Ocean Tuning Unit, OTU, deep-sea aeration, nanobubbles, ocean cooling, ocean circulation, Ultrasonic Mist Cooling, UMC, urban mist cooling, nano-mist cooling, heat island mitigation, desert regeneration, semi-arid regeneration, soil OS, soil microbiome, humus, carbon fixation, carbon fixation restoration, microbial collapse, ecosystem restoration, Natural Complementation Science, Artificial Wisdom, sustainable civilization, climate stabilization, open climate technology
+
+---
+
+## Hashtags
+
+#DirectPlanetaryCooling  
+#PlanetCooling  
+#OceanBreathing  
+#DeepSeaAeration  
+#OceanTuningUnit  
+#OTU  
+#Nanobubble  
+#UltrasonicMist  
+#UrbanMistCooling  
+#DesertRegeneration  
+#EcosystemRestoration  
+#ClimateStabilization  
+#GlobalWarming  
+#CarbonFixation  
+#Microbiome  
+#SustainableCivilization  
+#OpenSourceClimate  
+#NaturalComplementationScience  
+#ArtificialWisdom  
+#InchaComisho
