@@ -6,6 +6,8 @@ Published: May 2026
 License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
 **Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Integrated Index for Direct Planetary Cooling, Ocean Breathing, Urban Mist Cooling, and Ecosystem Regeneration
 
 This page provides an integrated overview of the **Direct Planetary Cooling (DPC)** architecture: a safe, reversible, modular, and immediately deployable framework for physically reducing planetary heat while restoring natural circulation systems.

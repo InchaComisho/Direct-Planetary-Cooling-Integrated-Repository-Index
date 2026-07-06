@@ -2,6 +2,8 @@
 
 **言語 / Language:** 日本語 | [English Version](README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Direct Planetary Cooling Integrated Repository Index
 
 このページは、**地球直接冷却（Direct Planetary Cooling / DPC）** に関するリポジトリ群を統合的に案内するための索引である。
