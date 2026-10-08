@@ -303,28 +303,20 @@ https://github.com/InchaComisho/CO2-Is-Not-The-Only-Villain-A-Climate-SF-Narrati
 ## 関連NOTE
 
 - 唯一の温暖化対策：地球直接冷却  
-  https://note.com/inchacomusho/n/n32f7295434aa
 
 - 唯一の温暖化対策・地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法  
-  https://note.com/inchacomusho/n/n5ab9564c6617
 
 - 地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生（完全統合モデル）  
-  https://note.com/inchacomusho/n/nfe290c6fca60
 
 - 海洋調律ユニット（OTU）物理実装プロトコル  
-  https://note.com/inchacomusho/n/n067025e36085
 
 - Technical Specification: Ocean Tuning Unit (OTU)  
-  https://note.com/inchacomusho/n/naa35a8485b35
 
 - 自然補完科学  
-  https://note.com/inchacomusho/n/nf9eabe973e38
 
 - 六つの理（自然法則・調和・循環・構造・秩序・和）  
-  https://note.com/inchacomusho/n/n8448430591c1
 
 - 人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
-  https://note.com/inchacomusho/n/n0849dfd12364
 
 ---
 
